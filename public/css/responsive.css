@@ -12,10 +12,6 @@
         text-align: center;
     }
 
-    #search{
-        width: 100%;
-    }
-
     .burger{
         display: block;
     }
@@ -46,6 +42,9 @@
     }
     .paras{
         padding: 0px;
+    }
+    .card{
+         width: 140px;
     }
 }
 
